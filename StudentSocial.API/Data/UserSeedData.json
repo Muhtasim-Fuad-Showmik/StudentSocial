@@ -1,0 +1,262 @@
+[
+    {
+      "Username": "Casandra",
+      "Gender": "female",
+      "DateOfBirth": "1968-01-03",
+      "Password": "password",
+      "KnownAs": "Casandra",
+      "Created": "2017-05-26",
+      "LastActive": "2017-05-26",
+      "Introduction": "Ut officia irure consequat minim nisi. Proident dolore ex exercitation mollit aute velit non eiusmod. Dolore consequat id enim ut ipsum adipisicing consectetur do ex nostrud magna culpa pariatur labore. Aute proident aliquip pariatur sint qui occaecat fugiat deserunt fugiat aute commodo.\r\n",
+      "Interests": "Consequat cillum cillum tempor dolore occaecat commodo reprehenderit culpa aliquip aliqua et cillum.",
+      "StudentId": 251991328,
+      "Major": "EEE",
+      "CoursesCompleted": "Laborum incididunt enim non mollit sit fugiat fugiat laboris. Dolore sunt ipsum exercitation amet ea occaecat aute qui consectetur commodo. Ex elit nulla sint tempor aute velit commodo fugiat exercitation qui magna consequat labore. Dolor amet Lorem adipisicing tempor ipsum veniam do sit ipsum magna qui aliqua eu. Consectetur aute ullamco Lorem consequat.\r\n",
+      "CoursesEnrolled": "Occaecat ex consectetur et consequat cupidatat in nostrud commodo cillum consectetur. Velit veniam nulla qui laboris voluptate amet quis exercitation mollit laboris ut. Qui sit quis tempor id pariatur ad amet irure cillum reprehenderit. Aliquip labore id quis fugiat consequat minim commodo occaecat laborum proident dolor.\r\n",
+      "University": "sint eu",
+      "City": "Vale",
+      "Country": "Ukraine",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/10.jpg",
+          "isMain": true,
+          "description": "Deserunt fugiat id ullamco consequat consectetur est non Lorem."
+        }
+      ],
+      "Cgpa": 3.68
+    },
+    {
+      "Username": "Marci",
+      "Gender": "female",
+      "DateOfBirth": "1983-06-27",
+      "Password": "password",
+      "KnownAs": "Marci",
+      "Created": "2017-08-11",
+      "LastActive": "2017-08-11",
+      "Introduction": "Magna eu enim consequat irure ad elit Lorem esse cillum nisi nisi esse velit cupidatat. Anim irure anim tempor occaecat adipisicing ea. Magna occaecat laboris voluptate ut sunt do qui aliquip consectetur sit sit dolore culpa. Mollit officia aliqua ut magna proident reprehenderit id mollit quis nisi enim. Incididunt minim cupidatat ea commodo et ut tempor voluptate laborum. Irure id nostrud quis quis tempor labore non ullamco mollit et id eu sint. Deserunt labore laboris anim voluptate voluptate Lorem velit officia proident tempor esse.\r\n",
+      "Interests": "Dolor elit magna exercitation ea irure proident proident irure laborum pariatur occaecat sunt.",
+      "StudentId": 324164521,
+      "Major": "BBA",
+      "CoursesCompleted": "Voluptate laborum ipsum commodo ut incididunt eu mollit adipisicing irure. Officia reprehenderit in nostrud officia minim consequat est ipsum aliqua anim. Consectetur dolore reprehenderit et consequat voluptate irure enim labore commodo. Esse ut do ipsum ullamco excepteur sit velit.\r\n",
+      "CoursesEnrolled": "Ut consequat dolore anim irure elit officia Lorem. Enim ut voluptate dolore Lorem occaecat dolore et culpa exercitation mollit aliqua mollit. Velit elit sunt sunt non ut qui velit eu proident Lorem culpa elit.\r\n",
+      "University": "ut sint",
+      "City": "Celeryville",
+      "Country": "Uruguay",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/99.jpg",
+          "isMain": true,
+          "description": "Commodo ad non in mollit aute adipisicing enim do."
+        }
+      ],
+      "Cgpa": 3.26
+    },
+    {
+      "Username": "Marjorie",
+      "Gender": "female",
+      "DateOfBirth": "1986-05-13",
+      "Password": "password",
+      "KnownAs": "Marjorie",
+      "Created": "2017-06-13",
+      "LastActive": "2017-06-13",
+      "Introduction": "Duis ad consectetur adipisicing laboris minim magna non nulla voluptate mollit. Anim velit labore ea laboris id occaecat Lorem occaecat cupidatat reprehenderit proident. Sunt minim consectetur et occaecat excepteur commodo non officia magna eu mollit pariatur. Esse Lorem magna commodo eu sint deserunt proident enim.\r\n",
+      "Interests": "In ex mollit fugiat eu consectetur cillum occaecat eu.",
+      "StudentId": 318376515,
+      "Major": "EEE",
+      "CoursesCompleted": "Non ad ullamco nulla dolore quis dolor eiusmod laboris est Lorem nisi enim. Labore nostrud occaecat amet minim eiusmod veniam duis cupidatat tempor laborum id aliqua. Anim irure aliquip est qui in esse. Esse pariatur dolor dolore excepteur mollit velit irure. Irure dolor consequat excepteur et ullamco cillum tempor occaecat minim ullamco. Do in eu dolore dolore esse enim esse velit esse sunt ut sunt.\r\n",
+      "CoursesEnrolled": "Ipsum id in deserunt esse aliqua reprehenderit eu consectetur ex sit amet culpa sunt ut. Nulla qui veniam enim cillum id qui ad amet ipsum consectetur elit nostrud. Veniam cillum quis et incididunt qui irure officia ipsum. Aliqua incididunt pariatur aute culpa non velit adipisicing deserunt sit mollit labore culpa consequat commodo. Ad irure elit do sit ex aliquip in laborum consequat irure do mollit velit. Sunt irure cillum minim ad officia est Lorem irure culpa enim laboris Lorem duis.\r\n",
+      "University": "aliquip reprehenderit",
+      "City": "Orovada",
+      "Country": "Togo",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/93.jpg",
+          "isMain": true,
+          "description": "Consectetur elit adipisicing consequat anim ipsum adipisicing esse occaecat."
+        }
+      ],
+      "Cgpa": 3.89
+    },
+    {
+      "Username": "Katy",
+      "Gender": "female",
+      "DateOfBirth": "1985-01-09",
+      "Password": "password",
+      "KnownAs": "Katy",
+      "Created": "2017-08-30",
+      "LastActive": "2017-08-30",
+      "Introduction": "Laboris pariatur consectetur proident eiusmod pariatur fugiat. Nulla deserunt ex sunt dolor mollit nulla nulla velit. Amet cupidatat et elit magna consequat dolor sit qui et voluptate id ipsum ipsum incididunt. Enim veniam commodo sint qui cupidatat nulla labore non exercitation commodo. Aliquip adipisicing enim qui eiusmod. Labore sint adipisicing cupidatat dolore amet aute sit pariatur laboris cupidatat velit commodo dolore amet.\r\n",
+      "Interests": "Occaecat non cillum amet amet proident mollit laborum tempor eiusmod amet proident veniam aliqua veniam.",
+      "StudentId": 743039829,
+      "Major": "BBA",
+      "CoursesCompleted": "Officia laborum laborum anim ipsum quis ipsum consectetur ipsum aliquip ullamco. Qui pariatur pariatur sit cillum do est tempor Lorem duis fugiat incididunt occaecat est cupidatat. Ex laboris aute esse labore sint laboris consequat sint nostrud eiusmod cillum. Non ipsum sit incididunt nisi eu fugiat.\r\n",
+      "CoursesEnrolled": "Mollit pariatur anim aliquip labore est. Laborum aliqua sunt cillum commodo minim commodo. Sunt qui ea pariatur ipsum dolor id exercitation. Ex laboris aliquip consequat veniam in dolore sunt velit quis ex. Cillum sint duis officia cupidatat magna cupidatat amet dolore.\r\n",
+      "University": "velit qui",
+      "City": "Ruffin",
+      "Country": "Uzbekistan",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/64.jpg",
+          "isMain": true,
+          "description": "Minim culpa ullamco laborum sunt tempor cillum id incididunt minim."
+        }
+      ],
+      "Cgpa": 3.1
+    },
+    {
+      "Username": "Jennifer",
+      "Gender": "female",
+      "DateOfBirth": "1993-05-10",
+      "Password": "password",
+      "KnownAs": "Jennifer",
+      "Created": "2017-06-18",
+      "LastActive": "2017-06-18",
+      "Introduction": "Proident officia aliquip est commodo enim. Ex sunt sint duis elit enim. Fugiat nulla voluptate aliqua ex enim sint qui magna. Consectetur esse sint incididunt enim ad Lorem amet consectetur qui sit laboris voluptate. In sint pariatur et adipisicing labore. Incididunt velit non Lorem ut nostrud. Sunt irure culpa esse veniam consequat et.\r\n",
+      "Interests": "Labore proident culpa in ullamco nisi.",
+      "StudentId": 599646577,
+      "Major": "BBA",
+      "CoursesCompleted": "Velit ex exercitation nostrud eu sint dolore id incididunt commodo duis deserunt eu. Laboris voluptate cupidatat anim sunt. Velit aliqua cillum occaecat magna laborum nostrud mollit dolore. Est commodo sit do ad dolor laborum ipsum.\r\n",
+      "CoursesEnrolled": "Cupidatat ipsum Lorem pariatur nostrud Lorem pariatur non. Adipisicing dolore tempor ipsum reprehenderit dolore magna. Do proident dolor in eiusmod.\r\n",
+      "University": "voluptate esse",
+      "City": "Ronco",
+      "Country": "Cote D'Ivoire (Ivory Coast)",
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/20.jpg",
+          "isMain": true,
+          "description": "Culpa non ex commodo eiusmod anim ea dolor eu consequat ad officia eiusmod."
+        }
+      ],
+      "Cgpa": 3.89
+    },
+    {
+        "Username": "Nolan",
+        "Gender": "male",
+        "DateOfBirth": "1990-08-11",
+        "Password": "password",
+        "KnownAs": "Nolan",
+        "Created": "2017-02-28",
+        "LastActive": "2017-02-28",
+        "Introduction": "Aute commodo amet adipisicing sint anim eu. Nulla cupidatat adipisicing elit consectetur adipisicing cupidatat nostrud. Aliqua velit do ipsum pariatur duis fugiat ullamco sit consectetur velit.\r\n",
+        "Interests": "Ipsum consequat adipisicing eu adipisicing.",
+        "StudentId": 634965668,
+        "Major": "EEE",
+        "CoursesCompleted": "Sunt mollit velit eiusmod incididunt labore officia adipisicing fugiat ad veniam aute ea laborum ut. Eu labore excepteur mollit nisi cupidatat id. Nulla in excepteur fugiat exercitation.\r\n",
+        "CoursesEnrolled": "Quis esse adipisicing minim veniam sint adipisicing anim et laboris esse labore eiusmod nisi. Duis consectetur aute cillum magna velit ea amet sit ullamco consequat. Sunt cupidatat aute consectetur commodo.\r\n",
+        "University": "officia proident",
+        "City": "Carrsville",
+        "Country": "French Guiana",
+        "Photos": [
+        {
+            "url": "https://randomuser.me/api/portraits/men/59.jpg",
+            "isMain": true,
+            "description": "Dolor quis ut aliqua minim."
+        }
+        ],
+        "Cgpa": 2.55
+    },
+    {
+        "Username": "Wilder",
+        "Gender": "male",
+        "DateOfBirth": "1961-03-04",
+        "Password": "password",
+        "KnownAs": "Wilder",
+        "Created": "2017-01-23",
+        "LastActive": "2017-01-23",
+        "Introduction": "Exercitation elit duis non Lorem eiusmod proident proident voluptate consectetur cillum aliquip. Nostrud consectetur pariatur velit velit amet eiusmod non nostrud laborum. Do id id cupidatat duis qui.\r\n",
+        "Interests": "Nostrud elit consequat ea tempor.",
+        "StudentId": 553633583,
+        "Major": "CSE",
+        "CoursesCompleted": "Consequat eiusmod labore cupidatat fugiat cillum dolore occaecat. Sint consequat velit aliqua aliqua laboris id eiusmod. Amet sunt incididunt cillum eu nisi ut est incididunt qui labore exercitation tempor. Velit qui est cillum laborum. Minim veniam amet aute elit nulla qui eiusmod culpa veniam voluptate.\r\n",
+        "CoursesEnrolled": "Fugiat consequat veniam reprehenderit ipsum pariatur dolor ad nulla sit officia. Nulla in dolor cillum et sit anim officia labore do. Commodo enim aute aliquip tempor duis minim irure anim est. Veniam nulla non consequat enim aliquip velit. Cupidatat officia veniam aliquip est ut in do ullamco sunt ullamco magna. Qui eu exercitation est mollit tempor pariatur ut laboris nulla proident non nulla in.\r\n",
+        "University": "Lorem labore",
+        "City": "Mathews",
+        "Country": "Singapore",
+        "Photos": [
+        {
+            "url": "https://randomuser.me/api/portraits/men/66.jpg",
+            "isMain": true,
+            "description": "Esse ut eu adipisicing dolor excepteur labore occaecat culpa aliqua labore eu sit."
+        }
+        ],
+        "Cgpa": 2.99
+    },
+    {
+        "Username": "Meyers",
+        "Gender": "male",
+        "DateOfBirth": "1961-04-13",
+        "Password": "password",
+        "KnownAs": "Meyers",
+        "Created": "2017-03-14",
+        "LastActive": "2017-03-14",
+        "Introduction": "Ea non laborum sint ad ea eiusmod quis eu. Ad exercitation nostrud duis est eu velit culpa labore officia. Est adipisicing labore magna nostrud esse mollit. Reprehenderit laboris pariatur adipisicing est dolore qui. Magna dolor duis aute adipisicing officia occaecat ipsum. Id fugiat velit tempor deserunt nulla quis aute id.\r\n",
+        "Interests": "Minim occaecat aliqua excepteur magna eiusmod exercitation culpa magna ex nostrud anim id laboris.",
+        "StudentId": 188087610,
+        "Major": "BBA",
+        "CoursesCompleted": "Qui id eu labore sit laborum fugiat consequat eu laborum. Sint labore pariatur duis adipisicing officia pariatur magna. Adipisicing ut duis duis mollit ullamco aliquip ut duis magna. Reprehenderit minim ut et consectetur dolor qui nostrud proident sit tempor officia deserunt cillum. Proident dolor ex nisi deserunt esse ipsum commodo nostrud. Anim non veniam laborum nisi culpa officia veniam amet deserunt esse et non aliquip. Id velit eiusmod ea amet cillum mollit.\r\n",
+        "CoursesEnrolled": "Magna aute amet Lorem cillum. Incididunt id commodo officia veniam aliquip excepteur dolore et ullamco. Irure voluptate voluptate elit consequat laborum ut officia aliquip in exercitation occaecat consequat Lorem. Nostrud duis ipsum excepteur incididunt laboris nostrud duis proident sunt eiusmod tempor laborum tempor eiusmod. Officia excepteur minim adipisicing velit ullamco cupidatat occaecat quis qui. Minim elit adipisicing mollit veniam non irure amet nostrud ea elit officia.\r\n",
+        "University": "proident in",
+        "City": "Ribera",
+        "Country": "Tokelau",
+        "Photos": [
+        {
+            "url": "https://randomuser.me/api/portraits/men/73.jpg",
+            "isMain": true,
+            "description": "Sint esse commodo incididunt officia esse adipisicing."
+        }
+        ],
+        "Cgpa": 3.36
+    },
+    {
+        "Username": "Boyle",
+        "Gender": "male",
+        "DateOfBirth": "1959-07-16",
+        "Password": "password",
+        "KnownAs": "Boyle",
+        "Created": "2017-06-25",
+        "LastActive": "2017-06-25",
+        "Introduction": "Labore consectetur reprehenderit ex officia aliqua ea dolor aute labore occaecat. Voluptate proident sit do voluptate elit sint ipsum eiusmod. Deserunt deserunt sint adipisicing nulla amet commodo dolor eiusmod Lorem. Pariatur velit quis aliqua incididunt eu excepteur eiusmod tempor duis in cupidatat Lorem dolor. Aliquip laboris elit reprehenderit exercitation minim sunt ipsum qui deserunt aliquip qui cupidatat magna. Ut laboris ad quis irure ipsum in et et. Culpa dolore deserunt esse duis fugiat non exercitation sint dolore tempor exercitation ullamco nostrud et.\r\n",
+        "Interests": "Ipsum id magna reprehenderit labore labore dolor ad.",
+        "StudentId": 459770962,
+        "Major": "CSE",
+        "CoursesCompleted": "Aute duis irure Lorem ullamco. Nulla aute aliquip irure cupidatat laborum sit ad ex labore ut ea commodo. Do qui laborum nulla dolore sint ullamco mollit in velit veniam non labore. Ad aliquip laborum mollit esse veniam est cupidatat nisi duis ea. Laboris veniam proident excepteur excepteur sit elit tempor dolor ex in veniam tempor consectetur proident. Proident elit minim sit sint aliqua amet adipisicing.\r\n",
+        "CoursesEnrolled": "Voluptate elit eiusmod et irure nisi dolor adipisicing id occaecat magna sint. Ex sunt eu laborum veniam cillum duis aliquip minim labore ea non. Laborum veniam reprehenderit adipisicing duis et consequat. Incididunt incididunt quis do eu eu qui anim magna elit elit qui ipsum.\r\n",
+        "University": "velit aliquip",
+        "City": "Coaldale",
+        "Country": "Palau",
+        "Photos": [
+        {
+            "url": "https://randomuser.me/api/portraits/men/57.jpg",
+            "isMain": true,
+            "description": "Aliqua elit ex culpa quis."
+        }
+        ],
+        "Cgpa": 3.18
+    },
+    {
+        "Username": "Hensley",
+        "Gender": "male",
+        "DateOfBirth": "1980-01-20",
+        "Password": "password",
+        "KnownAs": "Hensley",
+        "Created": "2017-07-19",
+        "LastActive": "2017-07-19",
+        "Introduction": "Ullamco cillum eiusmod dolor consectetur velit ipsum. Deserunt ad ad pariatur dolor velit laborum cupidatat do nisi. Nostrud nulla non tempor nostrud in voluptate Lorem eiusmod excepteur incididunt tempor do ex tempor. Anim dolore aliqua ut laboris mollit deserunt. Proident dolore tempor cillum magna mollit enim duis ipsum. Ullamco nostrud laboris aute exercitation dolor mollit ea sint cillum adipisicing ad quis do occaecat.\r\n",
+        "Interests": "Reprehenderit consequat quis nisi incididunt mollit sunt tempor.",
+        "StudentId": 621869705,
+        "Major": "CSE",
+        "CoursesCompleted": "Id labore duis ut ut nulla dolore. Velit est incididunt incididunt et id commodo laboris minim deserunt velit labore nulla duis. Ut enim adipisicing id nulla. Laborum ad sint dolore aliqua sit ullamco consequat velit aute. Adipisicing deserunt ad irure officia. Nostrud esse nostrud nostrud nisi nostrud deserunt nostrud aliqua pariatur velit sunt nulla ipsum.\r\n",
+        "CoursesEnrolled": "Elit occaecat minim fugiat nulla do cillum in sunt exercitation. Tempor ea ex esse magna. Reprehenderit esse proident consectetur minim ipsum. Irure dolore non ex Lorem consequat pariatur. Velit nisi Lorem aliquip commodo proident. Ut exercitation elit laboris aliqua deserunt culpa ad commodo tempor consectetur ipsum amet officia elit. Incididunt ullamco incididunt laborum commodo proident nostrud eu cillum.\r\n",
+        "University": "incididunt elit",
+        "City": "Otranto",
+        "Country": "Congo",
+        "Photos": [
+        {
+            "url": "https://randomuser.me/api/portraits/men/72.jpg",
+            "isMain": true,
+            "description": "Cillum eiusmod aute cupidatat est nulla enim sint eu culpa laboris sit."
+        }
+        ],
+        "Cgpa": 3.21
+    }   
+  ]
