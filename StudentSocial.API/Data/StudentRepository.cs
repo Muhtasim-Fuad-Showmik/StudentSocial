@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
@@ -31,7 +32,7 @@ namespace StudentSocial.API.Data
 
         public async Task<User> GetUserByUsername(string username)
         {
-            var user = await _context.Users.Include(p => p.Photos).FirstOrDefaultAsync(u => u.Username == username);
+            var user = await _context.Users.Include(p => p.Photos).FirstOrDefaultAsync(u => String.Equals(u.Username, username, StringComparison.OrdinalIgnoreCase));
             return user;
         }
 

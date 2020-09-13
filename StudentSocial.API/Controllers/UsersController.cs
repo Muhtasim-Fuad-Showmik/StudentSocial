@@ -42,10 +42,10 @@ namespace StudentSocial.API.Controllers
             return Ok(userToReturn);
         }
 
-        [HttpGet("{username}")]
+        [HttpGet("search/{username}")]
         public async Task<IActionResult> GetUser(string username)
         {
-            var user = await _repo.GetUserByUsername(username);
+            var user = await _repo.GetUserByUsername(username.ToLower());
 
             var userToReturn = _mapper.Map<UserForDetailedDto>(user);
 
