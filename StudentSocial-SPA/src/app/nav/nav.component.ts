@@ -27,11 +27,11 @@ export class NavComponent implements OnInit {
     });
   }
 
-  loggedIn(){
+  loggedIn() {
     return this.authService.loggedIn();
   }
 
-  logout(){
+  logout() {
     localStorage.removeItem('token');
     this.alertify.message('Logged out');
     this.router.navigate(['/home']);
